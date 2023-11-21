@@ -6,4 +6,4 @@ build:
 root := $(shell pwd)
 
 test-i18n:
-	@cd bin && ./i18n_compiler android $(root)/test/i18n.csv $(root)/test && ./i18n_compiler ios $(root)/test/i18n.csv $(root)/test && ./i18n_compiler web $(root)/test/i18n.csv $(root)/test && cd -;
+	@cd bin && ./i18n_compiler android $(root)/test/i18n.csv $(root)/test/android && ./i18n_compiler ios $(root)/test/i18n.csv $(root)/test/ios && ./i18n_compiler web $(root)/test/i18n.csv $(root)/test/web && cd -;

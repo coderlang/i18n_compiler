@@ -91,7 +91,7 @@ pub mod i18n_compiler {
                             panic!("{}", "please do not use Keywords: ".to_string() + &*x.key.to_string() + " as key.")
                         }
                     }
-                    let file = format!("{}/{}/{}", output, platform,header.value.clone());
+                    let file = format!("{}/{}", output,header.value.clone());
                     let path = Path::new(file.as_str());
 
                     if let Some(parent) = path.parent() {
