@@ -1,0 +1,720 @@
+"{
+    ""description"":""保留字段"",
+    ""keywords"":[
+        ""abstract"", ""assert"", ""boolean"", ""break"", ""byte"", ""case"", ""catch"", ""char"",
+        ""class"", ""const"", ""continue"", ""default"", ""do"", ""double"", ""else"", ""enum"",
+        ""extends"", ""final"", ""finally"", ""float"", ""for"", ""goto"", ""if"", ""implements"",
+        ""import"", ""instanceof"", ""int"", ""interface"", ""long"", ""native"", ""new"", ""package"",
+        ""private"", ""protected"", ""public"", ""return"", ""short"", ""static"", ""strictfp"",
+        ""super"", ""switch"", ""synchronized"", ""this"", ""throw"", ""throws"", ""transient"",
+        ""try"", ""void"", ""volatile"", ""while""
+    ]
+}","{
+    ""name"":""英文"",
+    ""platform"":[
+       {""key"":""ios"", ""value"":""en.lproj/Localizable.strings""},
+       {""key"":""android"", ""value"":""values-en/strings.xml""},
+       {""key"":""web"", ""value"":""en.json""}
+    ]
+}
+","{
+    ""name"":""简体中文"",
+    ""platform"":[
+       {""key"":""ios"", ""value"":""zh-Hans.lproj/Localizable.strings""},
+       {""key"":""android"", ""value"":""values/strings.xml""},
+       {""key"":""web"", ""value"":""zh-CN.json""}
+    ]
+}","{
+    ""name"":""中文繁体"",
+    ""platform"":[
+       {""key"":""ios"", ""value"":""zh-Hant.lproj/Localizable.strings""},
+       {""key"":""android"", ""value"":""values-zh-rTw/strings.xml""},
+       {""key"":""web"", ""value"":""zh-CN-rTw.json""}
+    ]
+}"
+qr_backup_tips_1,It is recommended to use an offline device to record the backup QR code.,建议使用非连网设备录制二维码备份。,建議使用非聯網設備錄制二維碼備份。
+qr_backup_tips_2,Please do not send them to insecure network environments to prevent them from being leaked and causing wallet fund losses.,请不要将它们发送到不安全的网络环境，以防止它们被泄露而造成钱包资金损失。,請不要將它們發送到不安全的網絡環境，以防止它們被洩露而造成錢包資金損失。
+mnemonics_lost_cannot_retrieved,"Once lost, it cannot be retrieved. , please make sure you have a copy.",丢失则无法找回。请确保你有一份复印件。,若丟失且無法找回。請確保你有一份複印件。
+content_type_post,[Announcement],[公告],[公告]
+content_type_file,[Document],[文档],[文檔]
+content_type_ann,[Notification${}],[通知${}],[通知${}]
+content_type_image,[Image],[图片],[圖片]
+content_type_unknown,[Unknown],[未知],[未知]
+content_type_video,[Video],[视频],[視頻]
+content_type_voice,[Voice],[语音],[語音]
+get_vrt_code_count_down,${} S,${} S,${} S
+user_email_or_phone,${}: ${},${}: ${},${}: ${}
+authorization_upgraded_leveled,You have been upgraded to administrator.,你已升级为管理员,你已升級為管理員
+mnemonics_words_count,${} words,${} 词,${} 詞
+picture_preview_image_num,${}/${},${}/${},${}/${}
+picture_done_front_num,(${}/${}),(${}/${}),(${}/${})
+picture_camera_roll_num,${} (${}),${}（${}）,${} (${})
+useful_balance,${} ${} ,${} ${} ,${} ${} 
+community_intro,${}/40,${}/40,${}/40
+pie_chart_center,${}${},${}${},${}${}
+explorer_url_format,${},${},${}
+picture_data_exception,Error retrieving album data...,获取相册数据异常…,獲取相冊數據異常...
+add_contacts_search_error,Query error,查询异常,查詢異常
+picture_audio,Permission to access system recordings denied,获取系统录音权限被拒绝,獲取系統錄音權限被拒絕
+picture_jurisdiction,Permission to access memory card denied,读取内存卡权限被拒绝,讀取內存卡權限被拒絕
+picture_camera,Permission to access system camera denied,获取系统相机权限被拒绝,獲取系統相機權限被拒絕
+add,Add,添加,添加
+add_desc,Add description...,添加说明...,添加說明...
+add_failed_and_please_try_again,"Add failed, please try again later.",添加失败，请稍后再试。,添加失敗，請稍後再試。
+already_add,Added,已添加,已添加
+add_success,Added successfully,添加成功,添加成功
+add_user_error,Failed to add member,添加成员失败,添加成員失敗
+address,Address,地址,地址
+group_manger,Administrator,管理员,管理員
+has_agreed,Approved,已同意,已同意
+menu_dialog_create_group1,Album,相册,相簿
+all,Everyone,所有人,所有人
+picture_all_audio,All audio,所有音频,所有音頻
+all_file,All files,所有文件,所有文件
+picture_camera_roll,All photos,所有照片,所有照片
+all_video,All videos,所有视频,所有視頻
+error_please_try_again,"An error has occurred, please try again later",发生错误，请稍后重试,發生錯誤，請稍後重試
+add_contacts_apply_error,Request failed,申请失败,申請失敗
+application_for_accession,Join request / Join Application,加入申请,加入申請
+cm_application_expired,Request has expired,申请已过期,申請已過期
+apply_success,Request successful,申请成功,申請成功
+applied,Application,应用,應用
+group_manage_remove_dialog_tip,Are you sure you want to remove from the group?,"你确定要从群组中移出""${}""吗? ","你確定要衝群組中移出""${}""嗎? "
+message_delete_tip,Are you sure you want to delete this message?,你确定要删除这条消息吗？,你確定要刪除這條消息嗎？
+quit_dismiss_group,Are you sure you want to leave and dissolve this group?,你确定要解散这群组吗? ,你確定要解散這個群組嗎？
+quit_group,Are you sure you want to leave this group?,你确定要离开这个群组吗? ,你確定要離開這個群組嗎？
+register_set_password_rule,"At least 8-16 characters including numbers, letters, and symbols.",至少8-16个字符，包含数字、字母、符号。,至少8-16個字符，包含數字、字母、符號。
+audible_reminder,Sound reminder,声音提醒,聲音提醒
+entrance_music,Audio,音频,音頻
+picture_audio_error,Audio is corrupted,音频已损坏,音頻已損壞
+tip_music,Audio file,音频文件,音頻文件
+authentication_password,Verification password,认证密码,認證密碼
+authentication_via_biometrics,Verified through biometric technology,通过生物识别技术进行身份验证,通過生物識別技術進行身份驗證
+background,Background,背景,背景
+safety_tips_not_backups,Backup,备份,備份
+backup_mnemonic,Backup mnemonic phrase,备份助记词,備份助記詞
+basic_information,Basic information,基本信息,基本信息
+biometrics_unavaliable,Biometric not available,生物识别不可用,生物識別不可用
+biometrics_not_supported_on_this_device,This device does not support biometric authentication,此设备不支持生物识别,此設備不支持生物識別
+picture_choose_max_seconds,Maximum video selection is ${}s,最大只能选择${}秒以内的视频,最大只能選擇${}s以內的視頻
+picture_min_video_num,Only ${} seconds of video can be selected at least,最小只能选择${}秒的视频,最少只能選擇${}秒的視頻
+picture_choose_limit_seconds,Only videos from ${}s to ${}s can be selected,只能选择 ${}秒 到 ${}秒 的视频,只能選擇${}秒 到 ${}秒 的視頻
+cancel,Cancel,取消,取消
+login_cancel,Cancel login,取消登录,取消登錄
+note_no_flashlight,Flash cannot be turned on temporarily,暂时无法开启闪光灯,暫時無法開啟閃光燈
+can_not_open_file_format,Unable to open this file format,无法打开此格式文件,無法打開此格式文件
+join_channel_not,Channel does not exist,频道不存在,頻道不存在
+qr_code_channel_title,Channel QR code,频道二维码,頻道二維碼
+chat,Chat,聊天,聊天
+clear_chat_history,Clear chat history,清除聊天记录,清除聊天記錄
+record_to,Tap to record,点击录制,點擊錄制
+picture_photo_pictures,Tap to take a photo,单击拍照,點擊拍照
+picture_photo_camera,"Tap to take a photo, press and hold to record",单击拍照，长按摄像,單擊拍照，長按攝像
+czxing_click_open_flash_light,Tap to turn on flash,点击开启闪光灯,點擊開啟閃光燈
+home_community,Community,社区,社區
+community_group,Community group,社区群,社區群
+community_head,Community avatar,社区头像,社區頭像
+community_member,Community members,社区成员,社區成員
+community_name,Community name,社区名字,社區名字
+picture_completed,Completed,已完成,已完成
+picture_send_num,Completed (${}/${}),完成(${}/${}),完成(${}/${})
+confirm,Confirm,确认,確認
+packing,Confirming,确认中,確認中
+connect_3rd_party_wallet,Connect to third-party wallet,连接第三方钱包,連接第三方錢包
+wc_connect_failed,"Connection failed, please try again",连接失败，请重试,連接失敗，請重試
+wc_connect_timeout,"Connection timed out, please refresh the QR code and try again",连接超时，请刷新二维码后重试,連接超時，請刷新二維碼後重試
+content,Content,内容,內容
+go_on,Continue,继续,繼續
+continue_to_select,Continue selecting files,继续选择文件,繼續選擇文件
+content_copied,Copied,已复制,已複製
+copy,Copy,复制,複製
+copy_mnemonic,Copy mnemonic phrase,复制助记词,複製助憶詞
+copy_successfully,Copy successful,复制成功,複製成功
+create,Create,创建,創建
+create_account,Create identity,创建身份,創建身份
+chat_add_community,Create community,创建社区,創建社區
+creation_time,Creation time,创建时间,創建時間
+creator,Creator,创作者,創作者
+day,Date,日期,日期
+delete_text,Delete,删除,刪除
+delete_chat,Delete chat,删除聊天,刪除聊天
+user_detail_del_user,Delete contact,删除联系人,刪除聯絡人
+delete_message_tip,Delete message,删除消息,刪除消息
+did_address,DID address: ${},DID 地址：${},DID 地址：${}
+picture_prompt_content,Save image to phone?,是否保存图片至手机？,是否保存圖片至手機？
+group_manage_disband,Dissolve group,解散群,解散群
+disband_group_chat,Dismiss group chat,解散群聊,解散群聊
+done,Complete,完成,完成
+download_failed,Download failed,下载失败,下載失敗
+update_downloading,Downloading...,正在下载...,正在下載...
+edit,Edit,编辑,編輯
+content_not_exist,Content to be edited does not exist,编辑内容不存在,編輯內容不存在
+edit_name,Edit nickname,编辑昵称,編輯昵稱
+mnemonic_hint,Enter mnemonic words separated by spaces,输入空格分隔的助记符,輸入空格分隔的助憶符
+enter_password,Enter password,输入密码,輸入密碼
+picture_quit_audio,Exit,退出,退出
+exit_group_chat,Exit group chat,退出群聊,退出群聊
+exit_account,Log out,退出账户,退出賬戶
+logout,Delete account,注销,註銷
+login_verify_failed,Verification failed,验证失败,驗證失敗
+failed,Failed,失败,失敗
+toast_group_create_error,Create failed,创建失败,創建失敗
+join_failed,Join failed,加入失败,加入失敗
+set_head_fail,Avatar setting failed,头像设置失败,頭像設置失敗
+nick_name_set_fail,Nickname setting failed,昵称设置失败,昵稱設置失敗
+set_failed,Setting failed,设置失败,設置失敗
+file,File,文件,文件
+file_not_exist,File does not exist,文件不存在,文件不存在
+uploaded_file,Uploaded file,上传的文件,上傳的文件
+fingerprint_auth_login,Fingerprint login,指纹认证登录,指紋認證登錄
+fingerprint_failed_retry,"Fingerprint recognition failed, please try again",指纹识别失败，请重新识别,指紋識別失敗，請重新識別
+fingerprint_success,Fingerprint recognition successful,指纹识别成功,指紋識別成功
+fingerprint_too_many_times,"Fingerprint recognition attempts exceeded, please try again later!",指纹识别次数过多，请稍后重新识别！,指紋識別次數過多，請稍後重新識別！
+layout_focus_qrcode,Please scan the QR code,请对准二维码进行扫描,請對準二維碼進行掃描
+fold,Fold,折叠,折疊
+forget_pwd,Forgot password?,忘记密码?,忘記密碼？
+forward,Forward,转发,轉發
+friends,Friends,朋友们,朋友們
+general_setting,General settings,通用设置,通用設置
+goto_backup,Back up now,去备份,去備份
+group_chat,Group chat,群组聊天,群組聊天
+create_group_success,Group created,已创建群组,已創建群組
+join_group_not,Group does not exist,群组不存在,群組不存在
+toast_add_group_members_diss,Group disbanded,群组已解散,群組已解散
+group_head,Group avatar,群头像,群頭像
+group_introduction,Group description,群简介,群簡介
+chat_group_manage,Group management,群组管理,群組管理
+group_name,Group nickname,群昵称,群昵稱
+qr_code_group_title,Group QR code,群组二维码,群組二維碼
+group_setting,Group settings,群组设置,群組設置
+group_title,Group,群组,群組
+register_click_upload_avatar,Avatar,头像,頭像
+picture_know,Got it,我知道了,我知道了
+backup_complete,I have backed up,我已备份,我已備份
+login_signature_site,ID,ID,ID
+note_identify_failed,Identification failed,识别失败,識別失敗
+identify_qr_in_picture,Scan the QR code in the image,识别图像中的二维码,識別圖像中的二維碼
+backup_mnemonic_worn3,"If you lose your mnemonic phrase, your account data and assets will be lost and cannot be recovered.",如果助记词丢失，你的账户数据和资产将丢失且无法找回。,如果助憶詞丟失，你的賬戶數據和資產將丟失且無法找回。
+record_voice_permission_request,"If you want to use voice function, please choose allow recording",如果你想使用语音功能，请选择允许录音,如果你想使用語音功能，請選擇允許錄音
+picture_error,Image corrupted,图片已损坏,圖片已損壞
+picture_save_error,Failed to save image,图片保存失败,圖片保存失敗
+user_detail_import_ok,Import,导入,導入
+import_wallet_failed,Import failed,导入失败,導入失敗
+personal_important_hint,Important reminder,重要提示,重要提示
+mnemonics_error,Incorrect mnemonic words,助记词不正确,助記詞不正確
+password_not_correct,Incorrect password,密码错误,密碼錯誤
+login_signature_information,Information,信息,信息
+cm_invitation_expired,Invitation expired,邀请已过期,邀請已過期
+invite,Invite,邀请,邀請
+invite_group,Invite to group chat,邀请群聊,邀請群聊
+apply_joint,Join,加入,加入
+join_group,Join group chat,加入群聊,加入群聊
+join_time,Join time,加入时间,加入時間
+srl_footer_finish,Loading completed,加载完成,加載完成
+srl_footer_failed,Loading failed,加载失败,加載失敗
+srl_footer_loading,Loading...,加载中...,加載中...
+login,Log in,登录,登錄
+login_outdate,Login expired,登录已过期,登錄已過期
+app_login_pass,Login password,登录密码,登錄密碼
+modify_password_success,Login password changed successfully,登录密码修改成功,登錄密碼修改成功
+login_timeout,Login timed out,登录超时,登錄超時
+picture_photo_recording,Long press to take a picture,长按摄像,長按攝像
+exit_account_tips,"Please make sure you have backed up your mnemonic phrase before deleting. Otherwise, you will not be able to retrieve this wallet.",在删除之前，请确保你已经备份了助记词。 否则你将无法找回此钱包。,在刪除之前，請確保你已經備份了助記詞。 否則你將無法找回此錢包。
+management_group,Manage group,管理组,管理組
+group_member_title,Member,成员,
+home_chat,Send message,发消息,發消息
+message_sign,Message signature,消息签名,消息簽名
+message_top,Pin message,消息置顶,消息置頂
+mnemonic_words,Mnemonic phrase,助记词,助記詞
+keywords_error,Mnemonic symbol error,助记符错误,助記符錯誤
+mnemonic_login,Mnemonic login,助记词登录,助記詞登錄
+more,More,更多,更多
+picture_gif_tag,GIF,动图,動圖
+move_into,Migrate to,迁移至,遷移至
+move_into_designated_communities,Migrate to specified community,迁入社区,遷入社區
+select_multiple_files,Multiple files can be selected,可以选择多个文件,可以選擇多個文件
+mute_notification,Mute notifications,静音,靜音
+chat_mute_of_single_send_tips,Muted by group owner,被群主禁言,被群主禁言
+my_field,Privent,私人的,私人的
+my_focus,My following,我的关注,我的關注
+my_group,My groups,我的群组,我的群組
+qr_code_mine_title,My QR code,我的二维码,我的二維碼
+name_text,Nickname,昵称,暱稱
+login_fail2,"Network error, please try again",网络错误，请重试,網絡錯誤，請重試
+backup_mnemonic_worn2,Never share with anyone.,永远不要与任何人分享。,永遠不要與任何人分享。
+create_new_group_title,New group,新的群组,新的群組
+Next_page,Next,下一步,下一步
+dialog_picture_damaged_cancel,Not,不是,不是
+picture_empty_audio_title,No audio file\n,无音频文件\n,無音頻文件\n
+not_find_about_content,No content found,没有找到内容,沒有找到內容
+no_program_found,No corresponding program found,没有找到对应的程序,沒有找到對應的程序
+sdcard_not_exist_toast,Currently no external storage,目前没有外部存储,目前沒有外部存儲
+picture_warning,No media files available!,暂无媒体文件！,暫無媒體文件！
+srl_footer_nothing,No more data,没有更多数据,沒有更多數據
+dont_have_result_search,"No results found for ""${}""","找不到与""${}""相关的结果","找不到與""${}""相關的結果"
+search_empty,No search results,无搜索结果,無搜索結果
+picture_empty_title,No videos or photos,无视频或照片\n,無視頻或照片\n
+public_group_tip,Everyone can join,所有人可加入,所有人可加入
+dont_choose,Unselected,未选中的,未選中的
+number_of_people,Number of people,人数,人數
+open_the_world_of_wbe3,Open the world of Wbe3,打开Wbe3的世界,打開Wbe3的世界
+or,or,或,或
+original_drawing,Original image,原图,原圖
+picture_original_image,Original image (${}),原图 (${}),原圖 (${})
+owner,Group owner,群主,群主
+login_password,Password,密码,密碼
+password_cant_empty,Password cannot be empty,密码不能为空,密碼不能為空
+pwd_level_start,Password strength is high,密码强度高,密碼強度高
+register_tip_password_length_rule,Password length should be between 8 and 16,密码长度应在8到16之间,密碼長度應在8到16之間
+set_password_success,Password set successfully,密码设置成功,密碼設置成功
+picture_pause_audio,Pause,暂停,暫停
+no_permisson,"Permission not enabled, please set it up",权限未开启，请设置,權限未開啟，請設置
+picture_picture,Photo,照片,照片
+picture_photograph,Take a picture,拍照,拍照
+picture_and_video,Photos and videos,照片和视频,照片和視頻
+picture_save_success,Image saved successfully to,图片保存成功至,圖片保存成功至
+community_stick_oper_fail,Pin failed,置顶失败,置頂失敗
+community_stick_oper_success,Pin to top,置顶,置頂
+czxing_scan_notice,Place the QR/barcode in the scanner,将二维码/条形码放入扫描仪,將二維碼/條形碼放入掃描儀
+focus_qr_code,Please aim at the QR code you want to recognize,请对准你需要识别的二维码,請對準你需要識別的二維碼
+please_input_desc,Please enter a description,请输入描述,請輸入描述
+register_nickname_rule,Please enter a nickname between 2 and 24 characters,请输入2 ~ 24个字符的昵称,請輸入2 ~ 24個字符的暱稱
+backup_mnemonic_describe,Please keep your mnemonic phrase safe and do not let anyone know. Obtaining a mnemonic phrase is equivalent to owning account assets.,请妥善保管好助记词，不要让任何人知道。 获得助记词等同于拥有账户资产。,請妥善保管好助記詞，不要讓任何人知道。獲得助記詞等同於擁有帳戶資產。
+qr_backup_tips,Please keep your mnemonic phrase safe to prevent theft by others,请妥善保管你的助记词，以免被他人窃取,請妥善保管你的助記詞，以免被他人竊取
+picture_please_select,Please select,请选择,請選擇
+select_group_member,Please select group members,请选择群成员,請選擇群成員
+select_forwarder,Please select the forward object,请选择转发对象,請選擇轉發對象
+record_voice_permission_denied,"Please allow recording options in the application's permission manager, otherwise recording function will not be available",请在应用的权限管理器中将录音选项设置为允许，否则将无法使用录音功能,請在應用的權限管理器中將錄音選項設置為允許，否則將無法使用錄音功能
+hint_set_sign_pwd,Please set your signature password,请设置你的签名密码,請設置你的簽名密碼
+picture_please,Please wait…,请稍候…,請稍候…
+picture_preview,Preview,预览,預覽
+picture_preview_num,Preview (${}),预览(${}),預覽(${})
+Previous,Previous step,上一步,上一步
+title_user_privacy_policy,Privacy policy,隐私协议,隱私協議
+privacy_setting,Privacy settings,隐私设置,隱私設置
+private_group,Private group,私有群,私有群
+private_key,Private key,私钥,私鑰
+note_processing,Processing...,处理中...,處理中...
+profile,Profile,个人资料,個人資料
+public_channel,Public channel,公开频道,公開頻道
+public_group_text,Public group,公开群,公開群
+qr_code,QR code,二维码,二維碼
+qr_code_business_card,QR code business card,二维码名片,二維碼名片
+picture_tape,Recording,录音,錄音
+record_tips,Recording duration exceeds limit,录音时长超过限制,錄音時長超過限制
+illegal_state_toast,"Recording status abnormal, please try again later",录音状态异常，请稍后重试,錄音狀態異常，請稍後重試
+time_too_short_toast,Recording time too short,录音时间太短,錄音時間太短
+record_cut_down,Recording will stop in ${} seconds,录制将在 ${} 秒后停止,錄制將在 ${} 秒後停止
+refresh,Refresh,刷新,刷新
+remarks,Remark,备注,備註
+group_manage_remove_error,Removal failed,移出失败,移除失敗
+message_removed_successfully,Removal successful,移出成功,移除成功
+remove,Remove,移出,移除
+group_manage_remove,Remove from group,从群组中移出,從群組中移出
+replay,Replay,重播,重播
+report_type,Report*,举报*,舉報*
+save,Save,保存,保存
+saved_successfully,Saved successfully,保存成功,保存成功
+chat_scan,Scan,扫描,掃描
+note_scan_failed,Scan failed,扫描失败,掃描失敗
+scan_successfully,Scan successful,扫描成功,掃描成功
+lock_password,Screen lock,屏幕锁,屏幕鎖
+srl_footer_pulling,Scroll up to load more,向上滚动加载更多,向上滾動加載更多
+search,Search,搜索,搜索
+security_setting_text,Security settings,安全设置,安全設置
+picture_select,Select,选择,選擇
+select_all,Select all,全选,全選
+add_group_members,Select contacts,选择联系人,選擇聯絡人
+select_people,Selected: ${},选择：${},選擇：${}
+selected_group_format,Selected ${} groups,已选${}组,已選${}組
+selected_count,Selected： ${},已选择${},已選擇${}
+selectforwarding,Select forward,选择转发,選擇轉發
+picture_please_select_send,Send,发送,發送
+picture_send_front_num2,Send (${}),发送${},發送${}
+wait_pack,Sending,发送中,發送中
+picture_send_front_num,Sending ${} / ${},发送中${} / ${},發送中${} / ${}
+send_failed,Sending failed,发送失败,發送失敗
+chat_set_group_manager,Set as administrator,设置管理员,設置管理員
+set_community_name,Set community name...,设置社区名称..,設置社區名稱..
+set_password,Set password,设置密码,設置密碼
+set_wallet_pwd,Set signature password,设置签名密码,設置簽名密碼
+security_setting_bind,Settings,设置,設置
+picture_go_setting,Go to settings,去设置,前往設置
+share_contacts,Share contact,分享联系人,分享聯絡人
+login_signature_1,Signature,签名,簽名
+login_password_signature,Signature password...,签名密码...,簽名密碼...
+channel_manage_remove_nc,"Sorry, you have been removed from the channel.",抱歉，你已被移出频道,抱歉，你已被移出頻道
+group_manage_remove_nc,"Sorry, you have been removed from the group.",抱歉，你已被移出群组,抱歉，你已被移出群組
+message_middle_start_chating,Start chatting,开始聊天吧,開始聊天吧
+success,Success,成功,成功
+login_success,Login success,登录成功,登錄成功
+welcome_describe,Talk to people from different regions of the world,与世界不同地区的人交谈,與世界不同地區的人交談
+record_video_failed,"Tap to take a photo, press and hold to record video",点击拍照，长按摄像,點擊拍照，長按攝像
+czxing_click_close_flash_light,Click to turn off the flash,点击关闭闪光灯,點擊關閉閃光燈
+the_entire_staff_is_silent,All members are muted.,全员禁言,全員禁言
+toast_file_cannot_200,File cannot exceed 200MB.,文件不能超过200M,文件不能超過200M
+aurora_record_voice_file_not_exist,File does not exist. Please set the save path before recording.,文件不存在，请在录制前设置好保存路径,文件不存在，請在錄制前設置好保存路徑
+file_saved_in,File saved in,文件保存在,文件保存在
+can_not_open_file,Cannot open file with extension ${}!,无法打开后缀为 ${} 的文件！,無法打開後綴為 ${} 的文件！
+chat_mute_of_group_send_tips,"The group owner has enabled full mute, only allowing the group owner to speak now.",群主已开启全面禁言，现在只允许群主发言,群主已開啟全面禁言，現在只允許群主發言
+private_group_tip,Check into the group,审核进群,審核進群
+picture_min_img_num,The minimum number of pictures selected cannot be less than ${}.,图片最低选择不能少于${}张,圖片最低選擇不能少於 ${} 張
+friendship_has_broken,The other party has removed you from their friends list!,对方已经与你解除好友关系!,對方已經與你解除好友關係!
+web_load_failed_reload,"Page cannot be opened, please refresh and try again.",页面打不开，请刷新后重试,頁面打不開，請刷新後重試
+register_tip_password_containerandrule_rule_new,Password format error or contains illegal characters!,密码格式错误或包含非法字符!,密碼格式錯誤或包含非法字符！
+register_tip_password_not_same,The two passwords entered are inconsistent.,两次密码输入不一致,兩次密碼輸入不一致
+this_channel_dismissed,This channel has been dissolved.,此频道已被解散,此頻道已被解散
+this_group_dismissed,This group has been dissolved.,此群已被解散,此群已被解散
+picture_data_null,It's empty here...,这里空空如也…,這裡空空如也…
+message_not_supported,This message type is not currently supported.,目前不支持此消息类型,目前不支持此消息類型
+hour,Time,时间,時間
+tips,Prompt,提示,提示
+publish_task_title,Title,标题,標題
+touchId,Touch ID,触控 ID,觸控 ID
+group_manage_transfer,Transfer group,转移群,轉移群
+turn_off_notification,Turn off notifications,关闭通知,關閉通知
+type,Type,类型,類型
+add_contacts_me_dialog,Cannot add yourself as a contact.,无法将自己添加为联系人,無法將自己添加為聯絡人
+unlock,Unlock,解锁,解鎖
+unmute,Unmute,取消静音,取消靜音
+up_to_500000,Maximum 2000,最大 2000,最大 2000
+uploading_image,Upload,上传,上傳
+title_user_agreement,User agreement,用户协议,用戶協議
+app_version,V1.0.0,V1.0.0,V1.0.0
+login_verification,Verification,验证,驗證
+wallet_pwd_check_tip,Verify signature password,验证签名密码,驗證簽名密碼
+vibration_warning,Vibration reminder,振动提醒,振動提醒
+picture_video,Video,视频,視頻
+picture_video_toast,Video preview not available.,视频不可预览,視頻不可預覽
+video_file_not_exist,Video file does not exist.,视频文件不存在,視頻文件不存在
+picture_record_video,Record video,录视频,錄視頻
+video_save_error,Video save failed.,视频保存失败,視頻保存失敗
+voice,Voice,语音,語音
+dialog_voice_damaged_msg,Voice does not exist.,语音不存在,語音不存在
+welcome_back,Welcome back!,欢迎回来 ！,歡迎回來 ！
+forget_paseeword_describe,"When you forget your password, please log out and import your mnemonic phrase to reset your password.",当你忘记密码时，请退出并导入你的助记词来重置你的密码。,當你忘記密碼時，請退出並導入你的助記詞來重置你的密碼。
+whenever_and_wherever_possible,"Anytime, anywhere.",随时随地,隨時隨地
+dialog_picture_damaged_ok,Yes,是,是
+you,You,你,你
+no_in_group,You are no longer in the group.,你已经不在群里了,你已經不在群裡了
+picture_message_max_num,You can only select up to ${} photos.,你最多只能选择${}张照片,你最多只能選擇${}張照片
+picture_message_video_max_num,You can only select up to ${} videos.,你最多只能选择${}个视频,你最多只能選擇${}個視頻
+picture_message_audio_max_num,You can only select up to ${} audios.,你最多只能选择${}个音频,你最多只能選擇${}個音頻
+maximum_optional_9,You can select up to 9 at a time.,一次最多可以选择9个,一次最多可以選擇9個
+picture_empty,You can use the camera to take photos or videos.,你可以使用相机拍摄照片或视频,你可以使用相機拍攝照片或視頻
+picture_audio_empty,You can use the system recorder to record audio.,你可以使用系统录音录制音频,你可以使用系統錄音錄製音頻
+one_member_mute_ing,You have been muted.,你已被禁言,你已被禁言
+new_friend_not,You have not received any friend requests.,你没有收到任何好友请求,你沒有收到任何好友請求
+traditional_chinese,中文繁體,中文繁體,中文繁體
+language_cn,中文简体,中文简体,中文简体
+language_us,English,English,English
+pclogin_login_title,Confirm login,确认登录,
+personal_import_mnemonic,Import mnemonic phrase,导入助记词,導入助記詞
+personal_share,Share,分享,分享
+personal_change_picture,Change profile picture,更改个人资料图片,更改個人資料圖片
+personal_language,Language,语言,語言
+personal_device_management,Device management,设备管理,設備管理
+personal_system,System,系统,系統
+personal_enable_biometrics,Enable biometric authentication,启用生物识别,啟用生物識別
+personal_version_update,Version update,版本更新,版本更新
+personal_current_latest_version,Current latest version,当前最新版本,當前最新版本
+message_stranger_message,Message from strangers,陌生人消息,陌生人消息
+message_send_new_message,Sent a new message,发送了一条新消息,發送了一條新消息
+message_red_envelope,[Red envelope],[红包],[紅包]
+message_delete_messages,"Are you sure you want to delete all messages with""${}""?","你确定要删除与""${}""的所有消息吗？","你確定要刪除所有包含""${}""的消息嗎？"
+message_delete_recall_message,Delete and recall the message I sent.,删除并撤回我发送的消息。,刪除並撤回我發送的消息。
+message_no_network,No network,没有网络,沒有網絡
+message_waiting_network,Waiting for network...,正在等待网络...,正在等待網絡...
+message_chat_files,Chat files,聊天文件,聊天文件
+message_icloud,iCloud,iCloud,iCloud
+message_other_ways,Other ways to open,其他方法打开,其他方法打開
+message_open_another_app,Open with other app,使用其他应用打开,使用其他應用打開
+message_download_successfully,Download successful,下载成功,下載成功
+message_chat_content_recalled,Message recalled,消息已被撤回,消息已被撤回
+choose_reminder,Select who to remind,选择要提醒的人,選擇要提醒的人
+message_no_found,"Member ""${}"" not found","找不到""${}""的成员","找不到""${}""的成員"
+reply,Reply,回复,回復
+message_forwarded,Forwarded,已转发,已轉發
+message_forwarding_failure,Forwarding failed,转发失败,轉發失敗
+message_delete_these_messages,Are you sure you want to delete these messages?,你确定要删除这些消息吗？,你確定要刪除這些消息嗎？
+message_delete_and_recall_messages,Delete and recall messages sent by everyone.,删除并撤回所有人发送的消息。,刪除並撤回所有人發送的消息。
+message_exit_group,"Exit the group and delete all messages, as well as recall the message I sent.",退出群组，将删除所有消息并撤回我发送的消息。,退出群組，將刪除所有消息並撤回我發送的消息。
+message_middle_you_create_group,"You created the group ""${}"".","你创建了群组""${}""","你創建了群組""${}"""
+message_middle_create_group,"${} created the group ""${}"".","""${}""创建了群组""${}""","${}創建了群組""${}"""
+message_invited_join_group,"You invited ${}, ${} to join the group.","你邀请了${}, ${}, 加入了群组","你邀請了${}, ${}, 加入了群組"
+message_invited_people,"You invited ${}, ${}, and ${} others, for a total of ${} people to join the group.","你邀请了${}, ${}, ${} 等人${}人加入群组","你邀請了${}, ${}, ${} 等人${}人加入群組"
+message_you_retracted_message,You recalled a message,你已撤回了一条消息,你已撤回了一條消息
+message_people_retracted_message,${} recalled a message.,${} 撤回了一条消息,${} 撤回了一條消息
+message_set_administrator,You have been set as an administrator.,你已被设置为管理员,你已被設置為管理員
+message_removed_administrator,You have been removed as an administrator.,你已被移除管理员身份,你已被移除管理員身份
+message_muted_members,You have enabled group-wide mute.,你已开启全员禁言,你已開啟全員禁言
+message_members_currently_muted,Everyone is muted.,全员禁言中,全員禁言中
+message_changed_group_name,"You changed the group name to ""${}"".","你将群组名称更改为""${}""","你將群組名稱更改為""${}"""
+message_people_changed_group_name,"${} changed the group name to ""${}"".","${}已将群组名称更改为""${}""","${}已將群組名稱更改為""${}"""
+message_removed_from_group,You have been removed from the group chat.,你已被移出群聊,你已被移出群聊
+message_send_more_message,You cannot send more than ${} messages before the other person replies.,在对方回复之前，你不能发送超过${}条消息,在對方回覆之前，你不能發送超過${}條消息
+message_sent_messages_reply,You have sent ${} messages. Please wait patiently for a reply.,"你已经发送了""${}""条信息，请耐心等待回复",你已經發送了${}條訊息，請耐心等待回覆
+message_reply_friends,Become friends after replying!,回复后，成为朋友！,回覆後，成為朋友！
+message_middle_already_friends,We are already friends. Let's start chatting!,我们已经是朋友了，开始聊天吧！,我們已經是朋友了，開始聊天吧！
+message_official_disbanded,The ${} group has been disbanded.,${}组已被解散,${}組已被解散
+message_official_removed,You have been removed from the ${} group.,你已从${}组中删除,你已從${}組中刪除
+delete_contact_title,"Are you sure you want to delete ""${}""?","你确定要删除""${}""吗?","你確定要刪除""${}""嗎？"
+delete_contact_content,Deleting contacts will delete and revoke all message records.,删除联系人，将删除并撤回所有消息记录。,刪除聯絡人，將刪除並收回所有訊息記錄。
+remove_geoup_title,"Are you sure you want to remove ""${}"" from the group?","你确定将""${}""移出群组吗?","你確定將""${}""移出群組嗎？"
+remove_geoup_content,Removing the member will recall all their messages.,移出群组，其消息将被撤回。,移出群組，其訊息將被撤回。
+group_application,New join request,新的加入申请,新的加入申請
+group_review,Under review,审核中,審核中
+audit_notice,Request reminder,申请提醒,申請提醒
+audit_refuse,Reject,拒绝,拒絕
+audit_refused,Rejected,已拒绝,已拒絕
+audit_agree,Agree,同意,同意
+audit_agree_all,Agree all,一键同意,一鍵同意
+audit_agree_all_content,Are you sure you want to agree to all group member requests?,你确定同意所有的群成员申请吗?,你確定同意所有的群成員申請嗎？
+set_group_administrator,Group administrator,群管理员,群管理員
+audit_staff_group,Approve member joining the group,审核成员入群,審核成員入群
+group_members_not_speak,Mute group members,禁言群成员,禁言群成員
+remove_member,Delete group members,删除群成员,刪除群成員
+double_delete,Double delete member chat,双删成员聊天,雙刪成員聊天
+group_adm_double_at,@Everyone,@所有人,@所有人
+shut_down,Close,关闭,關閉
+understand_administrator_rights,Understand administrator permissions?,了解管理员权限?,了解管理員權限？
+new_personnel,New personnel,新的人员,新的人員
+administrator_some_rights,Administrator privileges,管理员权限,管理員權限
+remove_administrator,Remove administrator,移出管理员,移出管理員
+want_remove_administrator,"Are you sure you want to remove administrator ""${}""? After deletion, all management permissions will be revoked.","你确定要删除管理员""${}""吗?删除后，所有管理权限将被撤销","你確定要刪除管理員""${}""嗎？刪除後，所有管理權限將被撤銷"
+maximum_people_added,Up to ${} people can be added.,最多可添加${}人,最多可添加${}人
+move_community_created,Only migrate to my community,仅迁移至我的社区,僅遷移至我的社區
+migration_group,Migrate group,迁移群组,遷移群組
+moving_group_community,"Are you sure you want to migrate this group to the ""${}"" community?","你确定要把这个群组迁移到""${}""社区吗？","你確定要把這個群組遷移到""${}""社區嗎？"
+dont_have_community,You don't have a community yet.,你还没有社区,你還沒有社區
+silence_mute,Mute,禁言,禁言
+private_chats_not_in_group,Private chat is not allowed in the group.,群组内不允许私聊,群組內不允許私聊
+add_group,Add group,添加群组,添加群組
+select_group,Select group,选择群组,選擇群組
+community_group_list,Community group list,社区群组列表,社區群組列表
+edit_content_saved,"Content not saved, are you sure you want to exit?",编辑内容未保存，确定退出吗?,編輯內容未保存，確定退出嗎？
+create_public_group,Create public group,创建公开群组,創建公開群組
+face_id,Face recognition,面容识别,面容識別
+set_up_community_personalization,"You haven't set up community personalization yet, go set it up.",你还没有设置社区个性化，去设置,你還沒有設置社區個性化，去設置
+talk_later,Remind me later,稍后再说,稍後再說
+fingerprint_verification,Fingerprint authentication,指纹认证,指紋認證
+message_locked_generation,"Group chat is locked, waiting for decryption.",群组聊天已锁定，等待解密中,群組聊天已鎖定，等待解密中
+wait_patiently_decryption,Please wait patiently for decryption...,请耐心等待解密...,請耐心等待解密...
+message_encrypted_waiting_key,"Message encrypted, waiting for decryption...",消息已加密，等待解密…,消息已加密，等待解密...
+taost_share_success,Sharing success,分享成功,分享成功
+people_placed_gag,${} has been muted.,${}已被禁言,${}已被禁言
+empty_view_empty_data,No relevant data available,暂无相关数据,暫無相關數據
+group_setting_disband_message,"Dissolve the group, delete and retract all messages sent by everyone",解散群，将删除并撤回所有人发送的消息。,解散群，將刪除並撤回所有人發送的消息。
+pc_login_alert_tip,"Invalid signature, please scan again!",签名无效，\n请重新扫码！,簽名無效，\n請重新掃描！
+pc_login_alert_rescan,Scan again,重新扫码,重新掃描
+device_quite_success,Operation successful,操作成功,操作成功
+device_list_cell_local,Current device,当前设备,當前設備
+notice_local_body_content_remind_me,someone @ me,有人@我,有人@我
+msg_card_user,Personal card,个人名片,個人名片
+msg_draft,[draft],[草稿],[草稿]
+search_group,Search for groups,搜索群,搜索群
+group_setting_mute,Mute all,全体禁言,全體禁言
+msg_silent_fail,Mute Failed,静音失败,靜音失敗
+pc_ligin_qrcode_expired,"The QR code has expired, please refresh and try again",二维码已过期， 请刷新重试。,二維碼已過期，請刷新重試。
+contex_menue_select,Multiple selection,多选,多選
+file_navi_send,Send(${}),发送(${}),發送(${})
+file_navi_today,Today,今天,今天
+file_navi_30day,Last 30 days,近30日,近30日
+file_search,Search file,搜索文件,搜索文件
+enable_biometrics_title,Password verification,验证密码,驗證密碼
+backup_lock,Just need your mnemonic phrase to fully access your wallet and assets,只需你的助记词即可完全访问你的钱包和资产,只需你的助記詞即可完全訪問你的錢包和資產
+selected,Selected,已选择,已選擇
+create_group_title,Create group,创建群组,創建群組
+opera_fail,Operation failed,操作失败,操作失敗
+profile_edit_upload_fail,upload fail,上传失败,上傳失敗
+msg_member_unsilent,${} has been unmuted,${} 已经移除禁言,${} 已經移除禁言
+accession_mark_agreed,Agreed all,全部同意,全部同意
+audit_title,Audit,审核,審核
+club_create_name_desc,Please enter a name between 4-30 characters...,请输入4-30个字符名称…,請輸入4-30個字符名稱…
+club_profile_owner,Owner,所有者,所有者
+club_profile_show,View,查看,查看
+club_profile_join_success,Join successfully,加入成功,加入成功
+club_profile_tip_error4,Application submitted,已提交申请,已提交申請
+club_remove_user_select,Select members to remove in bulk,选择批量移除的人员,選擇批量移除的人員
+club_set_manager,Manager,管理者,管理者
+club_set_blackList,Blacklist,黑名单,黑名單
+delete_success,Deletion successful,删除成功,刪除成功
+msg_forward_from,From:,来自于:,來自於:
+group_card_member_count,Quantity,数量,數量
+group_card_owner,Group leader,组长,組長
+device_list_system,System: ${},系统:${},系統:${}
+device_quit_success,Device exit successful,退出设备成功,退出設備成功
+msg_input_silent_all,Everyone has been muted,每个人都已被禁言,每個人都已被禁言
+msg_input_silent_you,You have been muted,你已经被禁言,你已經被禁言
+signature_confirm_title_leavegroup,Leave group,退群,退群
+signature_confirm_info_leavegroup,"Leave {} group, please confirm with signature",离开 ${} 群组，请签名确认。,離開 ${} 群組，請簽名確認。
+msg_fm_tips_send_start,You can only send up to 3 messages before they reply,在他们回复你之前，最多只能发送 3 条消息,在他們回復你之前，最多只能發送 3 條消息
+qrcode_invite,Invite you to be friends,邀请你做朋友,邀請你做朋友
+qrcode_invite_tips,Invitation code:,邀请码:,邀請碼:
+qrcode_send_bnt,Send to friend,发送给朋友,發送給朋友
+tips_edit_person_nickname,Please enter at least 2 characters without spaces,请输入除空格外至少2个字,請輸入除空格外至少2個字
+msg_card,[Profile card],[名片],[名片]
+message,Message,消息,消息
+group_enter,Enter group,进入群,進入群
+personal_detail_delete_message_tips,The other party's chat record will not be deleted,对方的聊天记录不会被删除,對方的聊天記錄不會被刪除
+group_owner_delete_group_recall,Delete and revoke messages from everyone.,删除并撤回所有人的消息记录,刪除並撤回所有人的消息記錄
+recent_chat_disturb_success,Do Not Disturb mode is on,已开启免打扰,已開啟免打擾
+recent_chat_cancel_disturb_success,Do Not Disturb mode is off,已取消免打扰,已取消免打擾
+club_group_name_set,Set group name,设置群名称,設置群名稱
+send_message_tips,Group members cannot chat with each other,群成员之间不能聊天,群成員之間不能聊天
+say_hello_tips,You can only send three messages before the other person replies,在对方回复之前，你只能发送三条消息,在對方回復之前，你只能發送三條消息
+mondayString,Mon,周一,週一
+tuesdayString,Tue,周二,週二
+wednesdayString,Wed,周三,週三
+thursdayString,Thur,周四,週四
+fridayString,Fri,周五,週五
+saturdayString,Sat,周六,週六
+sundayString,Sun,周日,週日
+publicChannel_one_chat,'s channel,的频道,的頻道
+group_one_chat,'s Group chat,的群聊,的群聊
+msg_fm_tips_send_upper_limit,"You have sent 3 messages, please wait patiently for a reply",你已发送3条消息，请耐心等待回复,你已發送3條消息，請耐心等待回復
+backup_bnt_title,Backed up,已备份,已備份
+backup_tips,"For backing up your mnemonic phrase, it is recommended to use a device that is not connected to the internet for security purposes",备份助记词，建议使用未联网的设备进行,備份助記詞，建議使用未聯網的設備進行
+create_web3_acount,Create your web3 account,创建你的Web3账号,創建你的Web3賬號
+login_mnemonic_pwd_tip,Set a password with at least 8 characters,设置密码至少8个字符,設置密碼至少8個字符
+login_mnemonic_pwd_confirm_tip,Confirm password,确认密码,確認密碼
+pclogin_scan_tips,Please align the QR code for scanning,请对准待识别二维码,請對準待識別二維碼
+pc_login_network_failure,Network connection failed,网络连接失败,網絡連接失敗
+pc_ligin_network_tips,Please check your network Settings,请检查你的网络设置,請檢查你的網絡設置
+session_list_tips_apply,[New group membership request],[新的入群申请],[新的入群申請]
+record_click,Click to record,点击录音,點擊錄音
+loading,Loading,加载中,加載中
+picture_webp_tag,webp,webp,webp
+picture_rule,Not an image or video,不是图片或视频,不是圖片或視頻
+picture_video_error,The video is corrupted,视频已损坏,視頻已損壞
+picture_editor,Author,作者,作者
+picture_stop_audio,Stop,停止,停止
+picture_play_audio,Play,播放,播放
+ucrop_label_edit_photo,Edit photo,修改照片,修改照片
+contacts,Contact,联系人,聯繫人
+community_manager,Community administrator,社区管理员,社區管理員
+management_community,Manage community,管理社区,管理社區
+picture_long_chart,Long picture,长图,長圖
+too_long,Input is too long,输入太长,輸入太長
+edited_message,Edit message,编辑消息,編輯消息
+file_not_found_toast,File not found,文件未找到,文件未找到
+cancel_record_voice_hint,Cancel recording,取消录音,取消錄音
+record_voice_hint,Stay online,保持在线,保持在線
+introduction,Introduction,介绍,介紹
+auto,Automatic,自动,自動
+public_member_list,Public member list,公开成员列表,公開成員列表
+at,@,@,@
+up_to_3,Up to 3,最多 3 个,最多 3 個
+agree_to_biometric_authentication,Agree to biometric authentication,同意生物识别认证,同意生物識別認證
+safety_tips,Security reminder,安全提醒,安全提醒
+create_a_new_group,Create a new group,创建一个新群组,創建一個新群組
+choose_my_group,Select my group,选择我的群组,選擇我的群組
+member_count,Member(${}),成员(${}),成員(${})
+most_3_people_could_to_administrator,Up to 3 people can be set as administrators,可设置3人成为管理员,可設置 3 人成為管理員
+sayhi,Say hello,打招呼,打招呼
+messageIsMeattention,You cannot send messages to yourself,你无法给自己发送消息,你無法給自己發送消息
+delete_the_contact_content_tips,Deleting a contact will delete and revoke all messages,删除联系人，将删除并撤回所有消息,刪除聯繫人，將刪除並撤回所有消息
+move,Move,移动,移動
+someoneatme,[Someone @ me],[有人@我],[有人@我]
+forwoadoutlimit,Forwarding cannot exceed 100 sessions,转发不能超过 100 个会话,轉發不能超過 100 個會話
+biometric_auth_not_set,"You have not entered biometric information yet. Please enter biometric information in your mobile system first, and then go to [Profile] to enable biometric authentication",你还没有输入生物识别信息，请先在手机系统中输入生物识别信息，然后前往【个人资料】启用生物识别认证,你還沒有輸入生物識別信息，請先在手機系統中輸入生物識別信息，然後前往【個人資料】啟用生物識別認證
+created_successfully,Created successfully,创建成功,創建成功
+homePage,Homepage,首页,首頁
+txid,TxId,哈希值,哈希值
+signature_password,Signature password,签名密码,簽名密碼
+unread_message,Unread messages,未读消息,未讀消息
+chat_more_call,Voice call,语音通话,語音通話
+ucrop_rotate,Rotate,旋转,旋轉
+ucrop_scale,Scale,规模,規模
+all_member_mute_ing,All prohibited,全部禁止,全部禁止
+hold_button_to_talk,Hold to Talk,按住说话,按住 說話
+picture_choose_min_seconds,You cannot select a video less than ${} seconds,你不能选择低于${}秒的视频,你不能選擇低於 ${} 秒的視頻
+picture_not_crop_data,No cropping data,没有裁剪数据,沒有裁剪數據
+group_dismissed_hint,This group has been disbanded,此群被解散,此群被解散
+ucrop_crop,Crop,裁剪,裁剪
+friend_delete_contact,You are not friends and cannot send messages,你们不是好友，无法发送消息,你們不是好友，無法發送消息
+group_remove_no_send,You have been removed from the group chat and cannot send messages anymore,你已被移出群聊，无法再发送消息,你已被移出群聊，無法再發送消息
+group_disband_no_view,This group has been disbanded and no messages can be viewed,此群已被解散，无法查看任何消息,此群已被解散，無法查看任何消息
+my_community,My community,我的社区,我的社區
+removing,You are removing,正在删除,正在刪除
+from_the,from the,来自,來自
+sign_confirm,please sign to confirm.,请签名确认。,請簽名確認。
+muted_after_lifted,"In muted state, please try again after the mute has been lifted",禁言中，请解禁后再试,全體禁言中，請等待解禁後再嘗試
+create_public_group_tips,"You are creating a public group, please sign to confirm",你正在创建公开群，请签名确认。,你正在創建公開群，請簽名確認。
+personal_center,personal center,个人中心,
+invite_friends,Invite friends,邀请好友,
+sure_log_out,Are you sure to log out?,确认退出登录吗？,
+do_not_disturb,Do not disturb,免打扰,
+remove_conversation_list,remove from conversation list,移出会话列表,
+link,[Link],[链接],[鏈接]
+article,Article,正文,正文
+message_publish_works,Publish works,发布作品,
+message_hey_creator,Hey! Creator~,你好！创作者,
+message_come_enhance_influence,Come and enhance your influence now！Publish a piece of writing,快来提升你的影响力吧！发表一篇文章,
+editing_content,Editing content...,内容编辑中…,
+message_data_encryption_secure,"Data encryption, works more secure.",数据加密，内容更安全。,
+content_right_progress,Content right in progress...,内容确权中…,
+encrypted_uploading,Encrypted uploading...,内容加密并上传中…,
+message_encrypt,Encrypt,加密上传,
+message_certified,Certified,确权,
+message_exposuregroup,ExposureGroup,曝光群,
+message_expositor,Exposed,曝光的人,
+message_consumers,Consumers,消费人数,
+message_token,Token,代币,
+creations_total,My Creations Total,我的创作总数,
+last_day,The last day,最近一天,
+circulation,Circulation,流通量,
+disseminator,Disseminator,传播者,
+communication_group,Communication group,传播群,
+edit_enter_title,Enter a good title…,输入一个好的标题…,
+zoom_preview,Zoom in to preview,放大预览,
+save_draft,Save draft ？,保存草稿？,
+save_draft_editing_next_time,Save the draft to continue editing next time,保存草稿下次继续编辑,
+did,DID,DID,
+statistical_data,Statistical data,DID数据,
+expiration_date,expiration date:,截止日期:,
+my_creation,My creation,我的创作,
+my_spread,My spread,我的传播,
+my_consumption,My consumption,我的消费,
+creation_total_volume,Creation total volume,创作总数,
+consumption_times,Consumption times,消费次数,
+total_content,Total content,内容总数,
+potential_circulation,Potential circulation,潜力流通量,
+potential_consumers,Potential consumers,潜力消费者,
+consume_content,consume content,消费内容,
+focus,focus,关注,
+fans,fans,粉丝,
+favorites,Favorites,收藏,
+creation_center,Creation Center,创作中心,
+income,income,收益,
+to_be_confirmed,To be confirmed,待确权,
+confirmation_failed,Confirmation failed,确权失败,
+edit_article,Edit article,编辑内容,
+edit_abstract,Edit abstract,编辑摘要,
+tencryption_while_wait,"The encryption process may take a while,please wait",加密过程可能需要一段时间，请耐心等待,
+continuem_editing,continue editing,继续编辑,
+editing_re_encrypt_uploads,"* You can still continue editing content, but you will also need to re-encrypt uploads.",* 您仍然可以继续编辑内容，但您还需要重新加密上传内容。,
+eigenvalues,Eigenvalues,特征值,
+charge_settings,Charge Settings,收费设置,
+summary_description,summary description,摘要描述,
+add_abstract,Add abstract...,添加摘要…,
+abstract_image,abstract image,摘要图片,
+payment_types,Payment Types,支付类型,
+free,Free,免费,
+do_not_save,do not save,不保存,
+information_rights_confirmation_failed,Content information rights confirmation failed,内容信息确权未通过,
+view_details,view details,查看详情,
+did_content,DID content,DID内容,
+did_content_circulate_once,Your DID content will only circulate once in the group and will not appear repeatedly,你的DID内容只会在群里流通一次，不会重复出现,
+consumed,consumed,消费了,
+buy_unlock_content,Buy works to unlock all content,购买作品解锁全部内容,
+view_for_free,View for free,免费查看,
+buy,Buy,购买,
+content_address,content address,内容地址,
+content_online,content online,内容上线,
+update_content,update content,更新内容,
+waiting_for_decryption,waiting for decryption,等待解密,
+edit_already_taken,edit already taken,编辑已被占用,
+another_device_choose_edit_again,"Editing has been taken You have enabled editing on another device, you can choose to delete the edited content and edit again",你已在另一台设备启用编辑，可以选择删除已编辑内容并重新编辑,
+locked,locked,已锁定,
+content_encrypted_decrypted,The content is encrypted and waiting to be decrypted,内容已加密，等待解密,
